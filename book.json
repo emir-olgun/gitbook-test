@@ -1,0 +1,9 @@
+{
+  "plugins": ["terminull"],
+  "pluginsConfig": {
+    "terminull": {
+      "theme": "dark", // use "light" for light theme
+      "copy_button": "enabled" // "disabled" to hide the copy button
+    }
+  }
+}
